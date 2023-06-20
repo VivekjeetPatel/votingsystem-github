@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//#increase security
+
 
 class VotingSystem{
     private String voterlist[];
